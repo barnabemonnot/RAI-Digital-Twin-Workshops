@@ -1,0 +1,5 @@
+(conceptual) What are the advantages and disadvantages of breaking down the entire workflow on discrete steps of preparing -> backtesting -> identification -> prediction -> output? Could it be made differently?
+- easy to implement new parts or make changes. Always can switch between options
+
+(hands-on) Can you execute the RAI Digital Twin through the CLI? Does the output matches the one that we've seen on the slides?
+- Unfortunately not, getting errors on Windows, hope somebody done it and can share way to run it on Win

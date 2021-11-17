@@ -1,0 +1,7 @@
+- dcrapis: Great work! Indeed low CSI can generate wild scenarios (will go over it on WS #3)
+- henrikaxelsen: Good job! The more complex + coupled the solution framework becomes, the harder it is to break it down so that one piece answers a specific question. Always a issue on integrated systems.
+- Jose504: I would be interested to know how "forward testing" would look like. Is it like some kind of sensitivity-based cross validation step? Feel free to use the Discord channel to share your thoughts!
+- santteegt: That's a really complete submission! You essentially went through all the spoilers for WS #2 xD
+- zcstarr: That's super good thoughts! Indeed the boundary between backtesting and SI can be fuzzy. In the end, it really depends on design choices that we must make taking into consideration how the system can be splitted.
+- zhiwei_li: Good news about your questions is that we're going to go exactly over that on WS #2! Those errors that you're getting are associated with the system identification phase when handling hard to fit data. We'll go over them on WS #3.
+- inventandchill: We definitely need a guide on how to run on Windows.

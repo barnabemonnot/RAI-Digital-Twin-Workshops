@@ -1,0 +1,13 @@
+- (conceptual) What are the advantages and disadvantages of breaking down the entire workflow on discrete steps of preparing -> backtesting -> identification -> prediction -> output? Could it be made differently?
+  - Advantages are easier unit- and integration testing 
+  - Disadvantages are around logic complexity, sometimes hopelessly difficult to explain how each unit works on what particular question or drivers
+- (hands-on) Can you execute the RAI Digital Twin through the CLI? Does the output matches the one that we've seen on the slides?
+  - Yes, no problem executing once I found out how to create another virtual environment of python vs what I have in the Ubuntu package.
+  - Output of README looks the same, but the report files open as code only
+- (hands-on) What happens if you use different CLI arguments?
+    - For instance, what happens if extrapolation is done for 2 months rather than 2 weeks? 
+      - Uncertainty and risk increases, so prediction variation increases / accuracy reduces
+    - Or if the past days to be downloaded are 3 days rather than 14 days?
+      - If history is a good interpretation of the future, then a smaller data sample or time window increases risk of a poor outcome, as forecasting become more reliant on qualitative assumptions as opposed to quantitative drivers
+- Any other relevant question!
+	- N/A

@@ -1,0 +1,33 @@
+***Jose5048/Reflexer-DigitalTwin**
+
+(conceptual) What are the advantages and disadvantages of breaking down the entire workflow on discrete steps of preparing -> backtesting -> identification -> prediction -> output?
+
+If the linkages between modules are there then there is no other alternative but to do it in a required sequence.
+
+*But there could be advanatges, especially in speed, if it could be done in parallel. Which could emerge when in future a real-time generation of the Stable Coin is required*
+
+Could it be made differently?
+
+*One variation I could try is
+preparing -> backtesting -> **FORWARD TESTING** ->identification -> prediction -> output?*
+
+
+
+(hands-on) Can you execute the RAI Digital Twin through the CLI? Does the output matches the one that we've seen on the slides?
+
+*I hope to be able to do it before today's workshop.*
+
+
+(hands-on) What happens if you use different CLI arguments?
+For instance, what happens if extrapolation is done for 2 months rather than 2 weeks?
+
+*Have not been able to try it as yet.*
+
+
+Or if the past days to be downloaded are 3 days rather than 14 days?
+
+*Have not been able to try it as yet.*
+
+Any other relevant questions
+
+*Not as yet.*

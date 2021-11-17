@@ -1,0 +1,4 @@
+- Can you plot the data used for historical backtesting / future extrapolation on a separate Jupyter notebook?
+- What happens if you modify the `data/controller_params.csv` file? For instance, what happens if the simulation is ran with non-zero values on `ki` and `leaky_factor`? Or make kp go up or down?
+- Are you able to modify the existing notebook template? What if we print summary statistics like the average Redemption Price over all the trajectory?
+- Are you able to create a new notebook template that gets generated on each run? 
